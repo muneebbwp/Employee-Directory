@@ -38,7 +38,7 @@
 ![Employee-Directory](public/Assets/Employee-Directory-Screenshot.png)
 
 ## Links
-  * Deployed link to GH Pages:
+  * Deployed link to GH Pages: https://muneebbwp.github.io/Employee-Directory/
   * GitHub repository link:  https://github.com/muneebbwp/Employee-Directory
 
 ## Contribution
